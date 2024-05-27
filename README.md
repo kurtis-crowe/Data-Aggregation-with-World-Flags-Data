@@ -1,8 +1,6 @@
 # Data Aggregation and Grouping
 ## Using World Flags Data
 
-<img src='flags.JPG'>
-
 Aggregating and transforming data is a critical aspect of data analysis. After data preparation, it's often necessary to compute group statistics or create pivot tables for reporting or visualization purposes. Pandas' `groupby` functionality provides a flexible way to perform these aggregations and summarize datasets.
 
 For this module, we'll work with data containing details of various nations and their flags. Originally collected from the 'Collins Gen Guide to Flags' by Collins Publishers in 1986, it's important to note that this dataset is outdated, still including 'USSR' as a country.
